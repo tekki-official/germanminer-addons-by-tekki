@@ -22,11 +22,11 @@ labyMod {
     }
 
     addonInfo {
-        namespace = "germanminer-assistant"
+        namespace = "fynntekki"
         displayName = "Germanminer Assistant"
-        author = "YourName"
+        author = "Tekki GmbH"
         description = "Commands, Blitzer-Warner & Shortcuts für Germanminer!"
-        minecraftVersion = "*"
+        minecraftVersion = "1.21.10"
         version = rootProject.version.toString()
     }
 }
